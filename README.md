@@ -1,1 +1,1 @@
-# Snake-and-ladder-by-C-
+# Snake-and-ladder
